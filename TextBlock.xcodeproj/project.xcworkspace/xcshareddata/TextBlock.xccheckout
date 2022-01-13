@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2F257FC8-3F1B-4AFB-98E0-595DDDB0E571</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TextBlock</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B6E51932-A2C2-4F90-B165-6B0986EFF426</key>
+		<string>https://superpanic.svn.beanstalkapp.com/sp</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TextBlock/TextBlock.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B6E51932-A2C2-4F90-B165-6B0986EFF426</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>B6E51932-A2C2-4F90-B165-6B0986EFF426</key>
+		<string>https://superpanic.svn.beanstalkapp.com/sp</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://superpanic.svn.beanstalkapp.com/sp/TextBlock/TextBlock.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B6E51932-A2C2-4F90-B165-6B0986EFF426</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B6E51932-A2C2-4F90-B165-6B0986EFF426</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

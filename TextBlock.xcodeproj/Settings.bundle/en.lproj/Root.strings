@@ -1,0 +1,23 @@
+/* 
+  Root.strings
+  TextBlock
+  English
+
+  Created by Fredrik Josefsson on 2011-06-16.
+  Copyright 2011 __MyCompanyName__. All rights reserved.
+*/
+"Settings" = "Settings";
+"Tutorial" = "Tutorial";
+"Sound settings" = "Sound settings";
+"Music" = "Music";
+"Sound Effects" = "Sound effects";
+"Colors settings" = "Color settings";
+"Colors" = "Colors";
+"Red" = "Red";
+"Blue" = "Blue";
+"Black" = "Black";
+"Neon" = "Neon";
+"Nature" = "Nature";
+"Sand" = "Sand";
+"Outline" = "Wire frame";
+"Changing any settings while a game is running will abort current game." = "Changing any settings while game is running will abort current game.";

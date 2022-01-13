@@ -1,0 +1,23 @@
+/* 
+  Root.strings
+  TextBlock
+  Swedish
+
+  Created by Fredrik Josefsson on 2011-06-16.
+  Copyright 2011 __MyCompanyName__. All rights reserved.
+*/
+"Settings" = "Inställningar";
+"Tutorial" = "Instruktioner";
+"Sound settings" = "Ljudinställningar";
+"Music" = "Musik";
+"Sound Effects" = "Ljudeffekter";
+"Color settings" = "Färginställningar";
+"Colors" = "Färger";
+"Red" = "Röd";
+"Blue" = "Blå";
+"Black" = "Svart";
+"Neon" = "Neon";
+"Nature" = "Natur";
+"Sand" = "Sand";
+"Outline" = "Kantlinje";
+"Changing any settings while a game is running will abort current game." = "Om inställningarna ändras medan ett spel är i gång så avslutas pågående spel.";
